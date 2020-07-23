@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">introduction-to-android_Part1</string>
+    <string name="BTNP">Next Page</string>
+    <string name="Next_Text">Next </string>
+    <string name="BTDL">Display</string>
+    <string name="value1">value1</string>
+    <string name="value2">value2</string>
+    <string name="result">result</string>
+    <string name="cal_btn">CALCULATE</string>
+    <string name="add">+</string>
+    <string name="sub">-</string>
+    <string name="div">/</string>
+    <string name="mul">*</string>
+    <string name="BTEX">Exit</string>
+    <string name="EDI">Nhập</string>
+</resources>
